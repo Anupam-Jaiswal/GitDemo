@@ -18,4 +18,12 @@ public class Selenium3Test
 	{
 		System.out.println("For demo7 purpose");
 	}
+	public void demo8()
+	{
+		System.out.println("For demo8 purpose");
+	}
+	public void demo9()
+	{
+		System.out.println("For demo9 purpose");
+	}
 }
