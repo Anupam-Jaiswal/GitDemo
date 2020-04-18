@@ -14,4 +14,8 @@ public class Selenium3Test
 	{
 		System.out.println("For demo6 purpose");
 	}
+	public void demo7()
+	{
+		System.out.println("For demo7 purpose");
+	}
 }
